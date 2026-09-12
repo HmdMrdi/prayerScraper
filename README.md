@@ -2,8 +2,6 @@
 
 This script scrapes prayer times from the Najaf website for two cities: **London** and **Birmingham**. It uses the `requests` library to fetch the HTML content and `BeautifulSoup` to parse it. It also uses `customtkinter` to create a simple GUI for displaying the prayer times.
 
-*(Copilot autofilled the explanation very nicely lmao)*
-
 ---
 
 ## Motivation
