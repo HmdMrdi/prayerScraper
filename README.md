@@ -21,16 +21,3 @@ If you want to change the cities, you can do so by changing the `CITY1_URL` and 
 I didn't bother handling any errors, so if the website changes, the script will break.
 
 ---
-
-## Note:
-
-Uploading for my brethren who wish to scrape from Najaf.org.
-
----
-
-## To Run (most terminals):
-
-```bash
-pip install requests
-pip install beautifulsoup4
-pip install customtkinter
